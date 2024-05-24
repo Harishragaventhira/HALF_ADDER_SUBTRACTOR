@@ -50,7 +50,7 @@ Figure -02 HALF Subtractor
 
 2.	Compile and run the program.
 
-3.	Generate the RTL schematic and save the logic diagram.
+3.	Generate the RTL schematic and save the logic diagram..
 
 4.	Create nodes for inputs and outputs to generate the timing diagram.
 
